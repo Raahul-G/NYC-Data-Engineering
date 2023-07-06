@@ -31,7 +31,10 @@ For more information about the dataset, you can visit the following resources:
 [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ## Data Model
-![](https://github.com/Raahul-G/NYC-Data-Engineering/blob/main/Data-model-images/NYC_Data_Model.png)
+![](https://github.com/Raahul-G/NYC-Data-Engineering/blob/main/images/NYC_Data_Model.png)
+
+## Data Visualization
+![](https://github.com/Raahul-G/NYC-Data-Engineering/blob/main/images/NYC_Dashboard.png)
 
 ## Contributing to the Project
 
